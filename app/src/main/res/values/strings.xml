@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PokemonApp</string>
+    <string name="creer">Créer</string>
+    <string name="ouvrir">Ouvrir</string>
+    <string name="introduction"><![CDATA[Bonjour, veuillez entrer votre nom et validé pour accéder à l ’étape suivante]]></string>
+    <string name="nom">Votre nom :</string>
+    <string name="valider">Valider</string>
+    <string name="nouveau">Nouveau</string>
+    <string name="choisir_pokemon">Choisir ce pokemon</string>
+    <string name="afficher_pokemon">Afficher les pokemon</string>
+    <string name="acheter_pokemon">Acheter nouveau pokemon</string>
+    <string name="action_compte">Voir mon compte</string>
+    <string name="solde">Mon solde actuelle</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="pokemon">Pokemon</string>
+</resources>
